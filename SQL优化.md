@@ -135,3 +135,5 @@ alter table user add index city_name(city, name);
 ACID
 
 脏读、幻读、不可重复读
+
+外键索引如何实现
